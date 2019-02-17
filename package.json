@@ -1,0 +1,19 @@
+{
+  "name": "react-node-udemy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinjohansson93/React-Node-Udemy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinjohansson93/React-Node-Udemy/issues"
+  },
+  "homepage": "https://github.com/martinjohansson93/React-Node-Udemy#readme"
+}
